@@ -28,6 +28,8 @@
 	<string>Provide Camers Access to click Images.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Provide Microphone Access to record voice.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Need location permission.</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
